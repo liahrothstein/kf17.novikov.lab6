@@ -1,3 +1,3 @@
 #include "./sort.cpp"
 
-void shiftSort(int *a, int n);
+void shiftSort(int A[], int N);

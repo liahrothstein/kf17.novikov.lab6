@@ -22,7 +22,7 @@ int main() {
     printf("\n\nПроцесс сортировки:\n");
     shiftSort(arr, numbers);
 
-    printf("Итоговый массив: ");
+    printf("\nИтоговый массив: ");
     printArray(arr, numbers);
     printf("\n");
 
